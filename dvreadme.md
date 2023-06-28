@@ -6,7 +6,7 @@
 
 # Welcome to Sturdy! 📣🐣
 
-## This file was committed using Diversion
+## Committed with git
 ## This file was committed using Diversion
 
 **Real-time code collaboration.**
